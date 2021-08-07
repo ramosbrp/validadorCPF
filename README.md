@@ -6,7 +6,7 @@
 
 :sparkles: Spacifications :sparkles:
 
-* Bitcoin;
-* Bets;
-* freebitco.in;
+* Bootstrap;
+* JavaScript;
+* Validation algorithm;
 
